@@ -8,4 +8,4 @@ Aplicacion en Python que permite gestionar desde consola de forma sencilla
 4. Calcular el valor total y la cantidad de producto
 5. Menu interactivo facil de usar
 
-6. ##Tecnologias
+#Tecnologias
